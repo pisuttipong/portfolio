@@ -1,5 +1,3 @@
-
-
 **1.Propensity to buy lead campaign and post campaign analysis**
 
 <img width="722" alt="image" src="https://github.com/pisuttipong/portfolio/assets/73054276/da290f56-8c86-425a-87d8-0e63f6072865">
@@ -30,3 +28,7 @@
 <img width="722" alt="image" src="https://github.com/pisuttipong/portfolio/assets/73054276/1a63d5df-b13a-4f56-bd1a-3a777b891eac">
 
 **6.Classification anomaly of road surface**
+
+<img width="722" alt="image" src="https://github.com/pisuttipong/portfolio/assets/73054276/ac97c264-e78b-4760-b782-5ac891748c3b">
+<img width="719" alt="image" src="https://github.com/pisuttipong/portfolio/assets/73054276/a051fa69-499a-4147-983a-35c399c2d45d">
+<img width="718" alt="image" src="https://github.com/pisuttipong/portfolio/assets/73054276/1d0f160f-c1db-46b2-b26c-ad8d52548861">
