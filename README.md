@@ -1,7 +1,7 @@
 # Portfolio of Pisuttipong Mekdang (Ae)
 My experience in data analytic and data scienctist role
 
-# Data Analytic and Data Scientist Experience (2017-Present)
+**Data Analytic and Data Scientist Experience (2017-Present)**
 
 # WORK
 
